@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: 5t/d?
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+In this blog, I'll be posting five tracks that I've listened to in the last 24 hours that stood out for me. I'll try to feature mostly new music. I won't post resonings for the picks, or write reviews. Genres will be all over the place, but currently I'm expecting a fair amount of electronic music.
