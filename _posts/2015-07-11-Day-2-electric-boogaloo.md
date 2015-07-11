@@ -1,7 +1,7 @@
 ---
-published: true
+layout: post
+title: 15/07/11 - Day 2: the Electric Boogaloo
 ---
-
 
 Plainstrider - Mugen & Jin  
 --------------------------  
